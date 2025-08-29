@@ -1,1 +1,1 @@
-- [User Stories](user_stories.md)
+- [User Stories](user-stories.md)
